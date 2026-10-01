@@ -45,6 +45,7 @@ Primary docs:
 - [CUDA backend training runbook](docs/CUDA_BACKEND_TRAINING_RUNBOOK.md)
 - [CUDA / Colab single cell](docs/CUDA_COLAB_SINGLE_CELL.md)
 - [Diagnostic thresholds](docs/DIAGNOSTIC_THRESHOLDS.md)
+- [Power manager handoff](docs/POWER_MANAGER_HANDOFF.md)
 - [Agent instructions](AGENTS.md)
 
 ## Current Board State
